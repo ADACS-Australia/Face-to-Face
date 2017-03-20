@@ -1,0 +1,6 @@
+These tutorials modified from those available at:
+https://github.com/astropy/astropy-tutorials
+
+Modified for use in ADACS tutorials.
+
+The data file 1904-66_SIN.fits is provided by Mark Calabretta at http://www.atnf.csiro.au/people/mcalabre/WCS/ as part of a set of example WCS projections.
