@@ -15,7 +15,7 @@ The notebooks for the python/pandas and stropy tutorials can be found in this re
 
 The Introduction to HPC slides can be found at: https://goo.gl/qkXYoy
 
-The version control with git tutorial is absed on the same Software Carpentry lesson and can be found here: http://swcarpentry.github.io/git-novice/
+The version control with git tutorial is based on the the Software Carpentry lesson and can be found here: http://swcarpentry.github.io/git-novice/
 
 **Note**:
 For some tutorials a basic knowledge of python is assumed (i.e., you know the basic data structures and operations and how to write a script). 
